@@ -54,7 +54,7 @@ I used certified medicare protocols and specifications in application developmen
 During 3 years of being in these projects, I developed about 40 sub-projects related to the UMIAS appointment system and infrastructure. 
 Nowadays this system serves more than 1 500 000 appointments per month and 30 000 patients a day.
 
-**Technologies:** `Linux, Bare-metall, Ansible, Docker, Kubernets, Go, Python, Django, MySQL, PgSQL, Elastic, Logstash, Grafana, ZeroMQ, iOS, Android, React Native, JSON-RPC, SOAP, React.js`
+**Technologies:** `Linux, Bare-metal, Ansible, Docker, Kubernets, Go, Python, Django, MySQL, PgSQL, Elastic, Logstash, Grafana, ZeroMQ, iOS, Android, React Native, JSON-RPC, SOAP, React.js`
 
 ### 2016 - present: Core-Developer
 
@@ -75,7 +75,7 @@ Developed SMS and email messaging functionality through Django/Celery.
 Implemented silent two-phase deployment (supervisor with nginx) so that users don't notice when the site updates.
 Handled 2.5 million registered users with 15k online each evening. Generated around 60TB of storage user file data.
 
-**Technologies:** `Linux, Bare-metall, Python, Flask, MySQL, Redis, FFmpeg, ImageMagick`
+**Technologies:** `Linux, Bare-metal, Python, Flask, MySQL, Redis, FFmpeg, ImageMagick`
 
 ### 2011 - 2013: Lead Architect, Lead Developer
 
@@ -93,7 +93,7 @@ Implemented many cool social features such as - messaging, forum, support, socia
 Included around twenty mini-games such as individual quests, fishing, and tasks related to plants and animals.
 Incorporated around 400 game items created by the art designer.
 
-**Technologies:** `Linux, Bare-metall, Python, Flask, MySQL, MongoDB, Redis, ImageMagick`
+**Technologies:** `Linux, Bare-metal, Python, Flask, MySQL, MongoDB, Redis, ImageMagick`
 
 ### 2009 - 2011: Lead Developer
 
@@ -108,7 +108,7 @@ Implemented a single sign-on (SSO) feature across all sites.
 Implemented a simple CMS page-tree feature, RTE, and functionality for turning pluggable product info directly into the text.
 Implemented all background tasks using the Django/Celery module.
 
-**Technologies:** `Linux, Bare-metall, Python, Django, MySQL, MongoDB, Redis.`
+**Technologies:** `Linux, Bare-metal, Python, Django, MySQL, MongoDB, Redis.`
 
 ### 2005 - 2009: CEO/CTO
 
@@ -119,7 +119,7 @@ with more than 100 web sites done in 5 years, mostly for Government, Education, 
 All project was done using [TYPO3](https://typo3.org) as CMS. 
 During this period I become **[top 5](http://www.typo3.ru/developers/)** TYPO3 developers in the Russian Federation and CIS.
 
-**Technologies:** `Linux, Bare-metall, TYPO3, Apache, PHP, MySQL.`
+**Technologies:** `Linux, Bare-metal, TYPO3, Apache, PHP, MySQL.`
 
 ### 2003 - 2005: Junior, Web-developer
 
