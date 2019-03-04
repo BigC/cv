@@ -79,7 +79,7 @@ Handled 2.5 million registered users with 15k online each evening. Generated aro
 
 ### 2011 - 2013: Lead Architect, Lead Developer
 
-**MobFerma, Online-gaming startup.**
+**MobFerma: Online-gaming startup.**
 
 Developed time-manager, farm-like game. Managed 4 member team (game designer, art designer, back-end developer, and front-end developer).
 Created a fast REST protocol and implemented game logic. Created around 200 REST nodes as a result, with twenty functional elements per node.
@@ -112,7 +112,7 @@ Implemented all background tasks using the Django/Celery module.
 
 ### 2005 - 2009: CEO/CTO
 
-**PRME, Digital Agency**
+**PRME: Digital Agency**
 
 Self-employment web-developer, growing to a small web-development company of 10 members, 
 with more than 100 web sites done in 5 years, mostly for Government, Education, and eCommerce.
