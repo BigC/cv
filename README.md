@@ -60,7 +60,7 @@ Nowadays this system serves more than 1 500 000 appointments per month and 30 00
 
 **[toptal.com](https://toptal.com): Top 3% of Freelance Talent.**
 
-Developed dozens for TopTal client's projects. Full list is under NDA. 
+Developed dozens of projects for TopTal clients. Full list is under NDA. 
 [Toptal's Profile](https://www.toptal.com/resume/sergey-nikitin)
 
 **Technologies:** `Linux, AWS, Google Cloud, Ansible, Terraform, Docker, Kubernets, Go, Python, Django, PostgreSQL, ElasticSearch, Graylog, Grafana, ZeroMQ, JSON-RPC, JSON-RPC over websockets, API-Gateway, iOS, Vue.js`
