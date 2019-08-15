@@ -20,6 +20,15 @@
 
 ## Timeline
 
+### 2016 - present: DevOps and Core Developer
+
+**[toptal.com](https://toptal.com): Top 3% of Freelance Talent.**
+
+Developed dozens of projects for TopTal clients. Full list is subject to NDA.  
+[Toptal's Profile](https://www.toptal.com/resume/sergey-nikitin)
+
+**Technologies:** `Linux, AWS, Google Cloud, Ansible, Terraform, Docker, Kubernets, Go, Python, Django, PostgreSQL, ElasticSearch, Graylog, Grafana, ZeroMQ, JSON-RPC, JSON-RPC over websockets, API-Gateway, iOS, Vue.js`
+
 ### 2018 - 2019: Lead Backend, Lead Architect
 
 **[Play2Live](https://play2live.io): Blockchain streaming platform startup.** 
@@ -55,15 +64,6 @@ During the three years that I was part of the project, I developed about 40 sub-
 Today, this system handles more than 1,500,000 appointments per month and 30,000 patients per day.
 
 **Technologies:** `Linux, Bare-metal, Ansible, Docker, Kubernets, Go, Python, Django, MySQL, PgSQL, Elastic, Logstash, Grafana, ZeroMQ, iOS, Android, React Native, JSON-RPC, SOAP, React.js`
-
-### 2016 - present: Core-Developer
-
-**[toptal.com](https://toptal.com): Top 3% of Freelance Talent.**
-
-Developed dozens of projects for TopTal clients. Full list is subject to NDA.  
-[Toptal's Profile](https://www.toptal.com/resume/sergey-nikitin)
-
-**Technologies:** `Linux, AWS, Google Cloud, Ansible, Terraform, Docker, Kubernets, Go, Python, Django, PostgreSQL, ElasticSearch, Graylog, Grafana, ZeroMQ, JSON-RPC, JSON-RPC over websockets, API-Gateway, iOS, Vue.js`
 
 ### 2013 - 2015: Lead Architect, Lead Developer
 
