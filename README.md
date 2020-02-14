@@ -7,7 +7,7 @@
 * DOB 10/08/1985
 * Moscow, Russian Federation / Tel-Aviv, Israel
 * [LinkedIn](https://linkedin.com/in/bershadsky)
-* [Facebook](https://facebook.com/b3rshadsky)       
+* [Facebook](https://www.facebook.com/sergio.bershadsky)       
 * **Target position:** `VPE, CTO, LA, LD`                    
 
 
@@ -151,24 +151,24 @@ All projects were done for Russian companies such as BAON, VDNH, EBRR, Holodilni
 ### OS
 
 * Windows `20 years` 
-* Linux `13 years` 
-* OSX `2 years` 
+* Linux `14 years` 
+* OSX `3 years` 
 
 ### DevOps
 
-* Bare-metal `12 years`
-* Docker `5 years`
-* AWS `3 years `
+* Bare-metal `14 years`
+* Docker `7 years`
+* AWS `5 years `
 * Jenkins `4 years`
 * Ansible/Cloudforamtion/Kubectl `3 years`
-* GitLab/Bitbucket/CircleCI pipelines `3 years`
-* Google Cloud `2 years `
+* GitLab/Bitbucket/CircleCI pipelines `5 years`
+* Google Cloud `4 years `
 
 ### Programming Languages
 
-* HTML/CSS `15 years`
-* JavaScript `15 years`
-* Python `9 years`
+* HTML/CSS `17 years`
+* JavaScript `16 years`
+* Python `10 years`
 * PHP `5 years`
 * C/C++ `3 years`
 * C#  `2 years`
@@ -177,8 +177,8 @@ All projects were done for Russian companies such as BAON, VDNH, EBRR, Holodilni
 
 ### Frameworks
 
-* Django `10 years`
-* Flask `9 years`
+* Django `11 years`
+* Flask `10 years`
 * Angular `3 years`
 * ReactJS `2 years`
 * ReactNative `2 years`
@@ -186,12 +186,12 @@ All projects were done for Russian companies such as BAON, VDNH, EBRR, Holodilni
 
 ### Databases
 
-* MySQL `15 years` 
-* PgSQL `8 years`
-* Redis `7 years`
-* MongoDB `5 years`
-* CouchDB `2 years`
-* ElasticSearch `3 years`
+* MySQL `17 years` 
+* PgSQL `9 years`
+* Redis `8 years`
+* MongoDB `6 years`
+* CouchDB `3 years`
+* ElasticSearch `4 years`
 
 ### Software
 
@@ -202,12 +202,11 @@ All projects were done for Russian companies such as BAON, VDNH, EBRR, Holodilni
 * Ansible/Terraform/Cloudformation
 
 
-
 ## Languages
 
 * ★★★★★ Russian (Native) 
 * ★★★★☆ English
-* ★★★☆☆ Hebrew
+* ★★☆☆☆ Hebrew
 * ★☆☆☆☆ Arabic 
  
 
